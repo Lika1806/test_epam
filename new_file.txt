@@ -1,1 +1,3 @@
 this is a text of first commit
+
+this is a text of a second commit
